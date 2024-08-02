@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@400..800&display=swap');
+
+/* Here i use Universal selectors */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* Here i change the background color of the web page  */
+body {
+    background-color: rgba(97, 230, 230, 0.61);
+}
+
+/* flex property  */
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+/* Here i write CSS for Youtube box */
+
+.card1 {
+    height: 470px;
+    width: 350px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin: 30px;
+    color: black;
+    border: 3px solid black;
+}
+
+
+
+.card1 img {
+    height: 95px;
+    width: 100px;
+    padding-left: 35%;
+    padding-top: 15px;
+    border-radius: 5px;
+}
+
+.card1 h1 {
+
+    padding-left: 32%;
+    padding-top: 5px;
+    font-size: 30px;
+    color: black
+
+}
+
+.card1 p {
+    padding-top: 10px;
+    padding-left: 20px;
+    color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    line-height: 22px ;
+}
+
+.card1 button {
+    width: 60%;
+    margin-top: 37px;
+    padding: 20px;
+    margin-left: 20%;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    background-color: black;
+    color: aliceblue
+}
+
+/* Here i write CSS for Twitter box */
+
+
+.card2 {
+    height: 470px;
+    width: 350px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin: 30px;
+    color: black;
+    border: 3px solid black;
+}
+
+
+
+.card2 img {
+    height: 95px;
+    width: 100px;
+    padding-left: 35%;
+    padding-top: 15px;
+    border-radius: 5px;
+}
+
+.card2 h1 {
+
+    padding-left: 35%;
+    padding-top: 5px;
+    font-size: 30px;
+    color: black
+
+}
+
+.card2 p {
+    padding-top: 10px;
+    padding-left: 20px;
+    color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    line-height: 22px ;
+}
+
+.card2 button {
+    width: 60%;
+    margin-top: 15px;
+    padding: 20px;
+    margin-left: 20%;
+    border-radius: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    background-color: black;
+    color: aliceblue
+}
+
+/* Here i write CSS for Instagram box */
+
+.card3 {
+    height: 470px;
+    width: 350px;
+    background-color: #ffffffd7;
+    border-radius: 10px;
+    margin: 30px;
+    color: black;
+    border: 3px solid black;
+}
+
+
+
+.card3 img {
+    height: 95px;
+    width: 100px;
+    padding-left: 35%;
+    padding-top: 15px;
+    border-radius: 5px;
+}
+
+.card3 h1 {
+
+    padding-left: 32%;
+    padding-top: 5px;
+    font-size: 30px;
+    color: black
+
+}
+
+.card3 p {
+    padding-top: 10px;
+    padding-left: 20px;
+    color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    line-height: 22px ;
+}
+
+.card3 button {
+    width: 60%;
+    margin-top: 15px;
+    padding: 20px;
+    margin-left: 20%;
+    border-radius: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    background-color: black;
+    color: aliceblue
+}
+
+
